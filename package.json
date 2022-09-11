@@ -13,5 +13,6 @@
 	},
 	"author": "Jamie",
 	"description": "I learn Node",
-	"keywords": ["tutorial", "training", "freecodecamp"]
+	"keywords": ["tutorial", "training", "freecodecamp"],
+	"license": "MIT"
 }
